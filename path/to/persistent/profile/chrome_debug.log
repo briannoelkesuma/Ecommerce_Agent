@@ -1,0 +1,7 @@
+[79621:259:0311/152444.504349:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[79621:259:0311/152446.229355:INFO:CONSOLE(0)] "Manifest: property 'src' ignored, type string expected.", source: https://tershine.com/manifest.json (0)
+[79621:259:0311/152447.446448:INFO:CONSOLE(2)] "[object Object]", source: https://tershine.com/themes/foundation/js/foundation.js?id=a028a2ec6ede2b147ea159b47ec8e195 (2)
+[79621:259:0311/152447.446561:INFO:CONSOLE(2)] "[object Object]", source: https://tershine.com/themes/foundation/js/foundation.js?id=a028a2ec6ede2b147ea159b47ec8e195 (2)
+[79621:259:0311/152447.446592:INFO:CONSOLE(2)] "[object Object]", source: https://tershine.com/themes/foundation/js/foundation.js?id=a028a2ec6ede2b147ea159b47ec8e195 (2)
+[79621:259:0311/152447.446650:INFO:CONSOLE(2)] "[object Object]", source: https://tershine.com/themes/foundation/js/foundation.js?id=a028a2ec6ede2b147ea159b47ec8e195 (2)
+[79621:259:0311/152507.665032:INFO:CONSOLE(2)] "Error: Request failed with status code 422", source: https://tershine.com/themes/foundation/js/foundation.js?id=a028a2ec6ede2b147ea159b47ec8e195 (2)

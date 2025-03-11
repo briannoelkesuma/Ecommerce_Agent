@@ -1,0 +1,3 @@
+2025/03/11-15:12:14.495 f903 Reusing MANIFEST /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/03/11-15:12:14.500 f903 Recovering log #3
+2025/03/11-15:12:14.500 f903 Reusing old log /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/Sync Data/LevelDB/000003.log 
