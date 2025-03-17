@@ -1,3 +1,6 @@
-2025/03/11-15:24:44.869 fc03 Reusing MANIFEST /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/shared_proto_db/MANIFEST-000001
-2025/03/11-15:24:44.869 fc03 Recovering log #3
-2025/03/11-15:24:44.870 fc03 Reusing old log /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/shared_proto_db/000003.log 
+2025/03/17-10:54:23.222 ae03 Reusing MANIFEST /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/shared_proto_db/MANIFEST-000001
+2025/03/17-10:54:23.222 ae03 Recovering log #3
+2025/03/17-10:54:23.222 ae03 Reusing old log /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/shared_proto_db/000003.log 
+2025/03/17-10:54:28.021 a603 Level-0 table #5: started
+2025/03/17-10:54:28.026 a603 Level-0 table #5: 109442 bytes OK
+2025/03/17-10:54:28.029 a603 Delete type=0 #3

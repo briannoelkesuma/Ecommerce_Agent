@@ -264,7 +264,6 @@ def main():
                             stream_mode="values",
                         )
                     )
-                    print("EVENTS: ", events)
 
                     last_event = events[-1]
                     tool_call = process_events(last_event)

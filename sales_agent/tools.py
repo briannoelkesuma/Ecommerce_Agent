@@ -218,97 +218,6 @@ def search_products(query: Optional[str] = None, category: Optional[str] = None,
             }
         }
 
-@tool
-def search_products_recommendations(config: RunnableConfig) -> Dict[str, str]:
-    """Searches for product recommendations for the customer."""
-    configuration = config.get("configurable", {})
-
-    if not configuration:
-        raise ValueError("Configuration is not set.")
-
-    customer_id = configuration.get("customer_id", None)
-
-    if not customer_id:
-        raise ValueError("No Customer ID configured.")
-    
-    with db_manager.get_connection() as conn:
-        cursor = conn.cursor()
-
-        # Get customer's previous purchases
-        cursor.execute(
-            """
-            SELECT DISTINCT p.Category
-            FROM orders o
-            JOIN orders_details od ON o.OrderId = od.OrderId
-            JOIN products p ON od.ProductId = p.ProductId
-            WHERE o.CustomerId = ?
-            ORDER BY o.OrderDate DESC
-            LIMIT 3
-            """,
-            (customer_id,),
-        )
-
-        favourite_categories = cursor.fetchall()
-
-        if not favourite_categories:
-            # TODO: Work in Progress!
-            # If no purchase history, recommend popular products
-            cursor.execute(
-                """
-                SELECT
-                    ProductId,
-                    ProductName,
-                    Category,
-                    Description,
-                    Price,
-                    Quantity
-                FROM products
-                WHERE Quantity > 0
-                ORDER BY RANDOM()
-                LIMIT 5
-                """
-            )
-        else:
-            # Recommend products from favorite categories
-            placeholders = ",".join("?" * len(favourite_categories))
-            categories = [cat["Category"] for cat in favourite_categories]
-
-            cursor.execute(
-                f"""
-                SELECT
-                    ProductId,
-                    ProductName,
-                    Category,
-                    Description,
-                    Price,
-                    Quantity
-                FROM products
-                WHERE Quantity > 0
-                AND Category IN ({placeholders})
-                ORDER BY RANDOM()
-                LIMIT 5
-                """,
-                categories,
-            )
-        
-        recommendations = cursor.fetchall()
-
-        return {
-            "status": "success",
-            "customer_id": str(customer_id),
-            "recommendations": [
-                {
-                    "product_id": str(product["ProductId"]),
-                    "name": product["ProductName"],
-                    "category": product["Category"],
-                    "description": product["Description"],
-                    "price": float(product["Price"]),
-                    "stock": product["Quantity"]
-                }
-                for product in recommendations
-            ]
-        }
-
 # @tool
 # def create_order(products: List[Dict[str, Any]], *, config: RunnableConfig) -> Dict[str, str]:
 #     """
@@ -435,6 +344,7 @@ def create_order(config: RunnableConfig) -> Dict[str, Any]:
     chrome_options = Options()
     profile_path = "path/to/persistent/profile"  # ensure this matches the profile used in add_product_to_cart
     chrome_options.add_argument(f"--user-data-dir={profile_path}")
+    chrome_options.add_experimental_option("detach", True)  # Keep Chrome open
     driver = webdriver.Chrome(options=chrome_options)
     try:
         # Navigate to the cart page (or the main site if cart state is preserved)
@@ -442,12 +352,25 @@ def create_order(config: RunnableConfig) -> Dict[str, Any]:
 
         WebDriverWait(driver, 20).until(EC.url_contains("checkout"))
 
-        while True:
-            time.sleep(1)
+    #     while True:
+    #         time.sleep(1)
+    # except Exception as ex:
+    #     checkout_url = "Error retrieving checkout URL: " + str(ex)
+    # finally:
+    #     driver.quit()
+    #     return {
+        checkout_url = driver.current_url
+        # Instead of closing, return a message and keep Chrome open
+        return {
+            "status": "pending",
+            "message": "The checkout page is now open in your Chrome session. Please complete your order manually.",
+        }
+
     except Exception as ex:
-        checkout_url = "Error retrieving checkout URL: " + str(ex)
-    finally:
-        driver.quit()
+        return {
+            "status": "error",
+            "error_message": str(ex),
+        }
 
 @tool
 def check_order_status(order_id: Union[str, None], *, config: RunnableConfig) -> Dict[str, Union[str, None]]:

@@ -1,3 +1,3 @@
-2025/03/11-15:24:44.529 a403 Reusing MANIFEST /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/03/11-15:24:44.530 a403 Recovering log #3
-2025/03/11-15:24:44.530 a403 Reusing old log /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/Sync Data/LevelDB/000003.log 
+2025/03/17-10:54:22.923 a603 Reusing MANIFEST /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/03/17-10:54:22.924 a603 Recovering log #3
+2025/03/17-10:54:22.924 a603 Reusing old log /Users/briannoel/Desktop/Ecommerce_Agent/path/to/persistent/profile/Default/Sync Data/LevelDB/000003.log 

@@ -1,6 +1,5 @@
 from database.db_manager import DatabaseManager, logger
 
-
 def main():
     """Main function to set up the database and insert initial data."""
     logger.info("Starting database setup...")
@@ -18,7 +17,6 @@ def main():
 
     logger.info("Database setup completed successfully")
     return True
-
 
 if __name__ == "__main__":
     main()

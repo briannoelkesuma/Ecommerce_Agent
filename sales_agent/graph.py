@@ -19,7 +19,6 @@ from sales_agent.tools import (
     create_order,
     get_available_categories,
     search_products,
-    search_products_recommendations,
     retrieve_faq_context_from_vectorstore
 )
 
@@ -86,12 +85,6 @@ assistant_prompt = ChatPromptTemplate.from_messages(
             - Use category and price range flexibility to find relevant options if the customer provides this information
             - Provide detailed product information including price, availability in bullet points style.
 
-            When making recommendations:
-            - Consider customer's past purchases and preferences
-            - Suggest complementary products when appropriate
-            - Focus on in-stock items
-            - Explain why you're recommending specific products
-
             When handling orders:
             - Verify product availability before confirming orders
             - Clearly communicate order details and total costs
@@ -125,7 +118,6 @@ assistant_prompt = ChatPromptTemplate.from_messages(
 safe_tools = [
     get_available_categories,
     search_products,
-    search_products_recommendations,
     check_order_status,
     retrieve_faq_context_from_vectorstore,
     add_product_to_cart
