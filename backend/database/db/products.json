@@ -1,0 +1,926 @@
+[
+    {
+      "product_name": "Spraymunstycke 500 ml",
+      "description": "Detailed description for Spraymunstycke 500 ml. This high-quality spray nozzle is designed for efficient application in car care.",
+      "category": "Spray Nozzles",
+      "price": 19,
+      "quantity": 57
+    },
+    {
+      "product_name": "Spraymunstycke 1000ml",
+      "description": "Detailed description for Spraymunstycke 1000ml. Ideal for larger applications, ensuring even distribution.",
+      "category": "Spray Nozzles",
+      "price": 19,
+      "quantity": 82
+    },
+    {
+      "product_name": "Utskuren dekal - 12 cm",
+      "description": "Detailed description for Utskuren dekal - 12 cm. A precision-cut decal to enhance your vehicle’s look.",
+      "category": "Decals",
+      "price": 15,
+      "quantity": 43
+    },
+    {
+      "product_name": "Repel - Glasbehandling",
+      "description": "Detailed description for Repel - Glasbehandling. Formulated for effective glass treatment in car care.",
+      "category": "Glass Care",
+      "price": 59,
+      "quantity": 64
+    },
+    {
+      "product_name": "Dissolve - Kallavfettning 1 L",
+      "description": "Detailed description for Dissolve - Kallavfettning 1 L. A powerful cold degreaser for automotive cleaning.",
+      "category": "Degreasers",
+      "price": 139,
+      "quantity": 38
+    },
+    {
+      "product_name": "Extract - Alkalisk avfettning 1 L",
+      "description": "Detailed description for Extract - Alkalisk avfettning 1 L. An effective alkaline degreaser for stubborn dirt.",
+      "category": "Degreasers",
+      "price": 149,
+      "quantity": 75
+    },
+    {
+      "product_name": "Amplify - Wet Coat 500 ml",
+      "description": "Detailed description for Amplify - Wet Coat 500 ml. Enhances gloss and protects surfaces during cleaning.",
+      "category": "Coatings",
+      "price": 199,
+      "quantity": 62
+    },
+    {
+      "product_name": "Relive - Flygrostborttagare 500 ml",
+      "description": "Detailed description for Relive - Flygrostborttagare 500 ml. Specially formulated to remove road grime.",
+      "category": "Bug & Road Film Removers",
+      "price": 199,
+      "quantity": 88
+    },
+    {
+      "product_name": "Mikrofiber - Allround",
+      "description": "Detailed description for Mikrofiber - Allround. A versatile microfiber cloth for a streak‐free finish.",
+      "category": "Microfiber Cloths",
+      "price": 49,
+      "quantity": 47
+    },
+    {
+      "product_name": "Relive - Flygrostborttagare 1 L",
+      "description": "Detailed description for Relive - Flygrostborttagare 1 L. A larger size for heavy-duty cleaning tasks.",
+      "category": "Bug & Road Film Removers",
+      "price": 299,
+      "quantity": 53
+    },
+    {
+      "product_name": "Refract - Keramiskt spraylackskydd 500 ml",
+      "description": "Detailed description for Refract - Keramiskt spraylackskydd 500 ml. Provides a durable ceramic layer for paint protection.",
+      "category": "Ceramic Coatings",
+      "price": 299,
+      "quantity": 68
+    },
+    {
+      "product_name": "Mikrofiber - Fluff",
+      "description": "Detailed description for Mikrofiber - Fluff. Soft and absorbent cloth ideal for delicate surfaces.",
+      "category": "Microfiber Cloths",
+      "price": 49,
+      "quantity": 91
+    },
+    {
+      "product_name": "Tvätthandske",
+      "description": "Detailed description for Tvätthandske. A glove designed for effective washing and detailing.",
+      "category": "Cleaning Accessories",
+      "price": 149,
+      "quantity": 36
+    },
+    {
+      "product_name": "Mikrofiber - Glas",
+      "description": "Detailed description for Mikrofiber - Glas. Specially made for cleaning glass and reflective surfaces.",
+      "category": "Glass Care",
+      "price": 79,
+      "quantity": 74
+    },
+    {
+      "product_name": "Apex+ - Gloss Booster 500 ml",
+      "description": "Detailed description for Apex+ - Gloss Booster 500 ml. Boosts shine and provides a protective finish.",
+      "category": "Coatings",
+      "price": 249,
+      "quantity": 55
+    },
+    {
+      "product_name": "Dissolve - Kallavfettning 5 L",
+      "description": "Detailed description for Dissolve - Kallavfettning 5 L. Economical size for intensive degreasing.",
+      "category": "Degreasers",
+      "price": 499,
+      "quantity": 63
+    },
+    {
+      "product_name": "Purify S+ - Bilschampo Avrinning 500 ml",
+      "description": "Detailed description for Purify S+ - Bilschampo Avrinning 500 ml. A premium car shampoo for quick rinsing.",
+      "category": "Car Shampoos",
+      "price": 249,
+      "quantity": 44
+    },
+    {
+      "product_name": "Torkduk - Big",
+      "description": "Detailed description for Torkduk - Big. Extra-large drying cloth for efficient water removal.",
+      "category": "Cleaning Accessories",
+      "price": 299,
+      "quantity": 52
+    },
+    {
+      "product_name": "P-skiva / Isskrapa",
+      "description": "Detailed description for P-skiva / Isskrapa. A handy tool for ice removal and surface maintenance.",
+      "category": "Tools & Accessories",
+      "price": 29,
+      "quantity": 77
+    },
+    {
+      "product_name": "Extract - Alkalisk avfettning 5 L",
+      "description": "Detailed description for Extract - Alkalisk avfettning 5 L. Suitable for heavy cleaning with an alkaline formula.",
+      "category": "Degreasers",
+      "price": 499,
+      "quantity": 68
+    },
+    {
+      "product_name": "Rekondpenslar",
+      "description": "Detailed description for Rekondpenslar. Specially designed brushes for detailed reconditioning work.",
+      "category": "Cleaning Tools",
+      "price": 149,
+      "quantity": 41
+    },
+    {
+      "product_name": "Enhance - Interiörbehandling 500 ml",
+      "description": "Detailed description for Enhance - Interiörbehandling 500 ml. Improves and protects interior surfaces.",
+      "category": "Interior Care",
+      "price": 199,
+      "quantity": 59
+    },
+    {
+      "product_name": "Refined - Plast & Däckglans 500 ml",
+      "description": "Detailed description for Refined - Plast & Däckglans 500 ml. Enhances the appearance of plastics and tires.",
+      "category": "Exterior Care",
+      "price": 199,
+      "quantity": 46
+    },
+    {
+      "product_name": "Tomflaska 500 ml",
+      "description": "Detailed description for Tomflaska 500 ml. A refillable bottle ideal for various car care liquids.",
+      "category": "Accessories",
+      "price": 49,
+      "quantity": 90
+    },
+    {
+      "product_name": "Elevate - Snow Foam 1 L",
+      "description": "Detailed description for Elevate - Snow Foam 1 L. Provides thick, clinging foam for pre-wash treatment.",
+      "category": "Foam Products",
+      "price": 189,
+      "quantity": 61
+    },
+    {
+      "product_name": "Magnify - Glasförsegling",
+      "description": "Detailed description for Magnify - Glasförsegling. Seals glass surfaces for enhanced clarity and protection.",
+      "category": "Glass Care",
+      "price": 129,
+      "quantity": 55
+    },
+    {
+      "product_name": "Vision+ - Glasrengöring avrinning 500 ml",
+      "description": "Detailed description for Vision+ - Glasrengöring avrinning 500 ml. Specially formulated for streak‐free glass cleaning.",
+      "category": "Glass Care",
+      "price": 179,
+      "quantity": 83
+    },
+    {
+      "product_name": "Extract - Alkalisk avfettning färdigutspädd 1 L",
+      "description": "Detailed description for Extract - Alkalisk avfettning färdigutspädd 1 L. Pre-diluted for convenience in cleaning.",
+      "category": "Degreasers",
+      "price": 99,
+      "quantity": 64
+    },
+    {
+      "product_name": "Refresh - Mikrofibertvätt 500 ml",
+      "description": "Detailed description for Refresh - Mikrofibertvätt 500 ml. Cleans and rejuvenates microfiber cloths.",
+      "category": "Car Shampoos",
+      "price": 129,
+      "quantity": 47
+    },
+    {
+      "product_name": "Supermjuka penslar",
+      "description": "Detailed description for Supermjuka penslar. Extra-soft brushes ideal for delicate cleaning tasks.",
+      "category": "Cleaning Tools",
+      "price": 149,
+      "quantity": 72
+    },
+    {
+      "product_name": "Mikrofiber - Standard 5-pack",
+      "description": "Detailed description for Mikrofiber - Standard 5-pack. A pack of versatile microfiber cloths for all surfaces.",
+      "category": "Microfiber Cloths",
+      "price": 199,
+      "quantity": 51
+    },
+    {
+      "product_name": "Vision - Glasrengöring 500 ml",
+      "description": "Detailed description for Vision - Glasrengöring 500 ml. Formulated to leave glass spotless and clear.",
+      "category": "Glass Care",
+      "price": 149,
+      "quantity": 68
+    },
+    {
+      "product_name": "Tryckspruta - Alkalisk",
+      "description": "Detailed description for Tryckspruta - Alkalisk. A pressure sprayer ideal for applying alkaline cleaners.",
+      "category": "Cleaning Tools",
+      "price": 299,
+      "quantity": 39
+    },
+    {
+      "product_name": "Applikator",
+      "description": "Detailed description for Applikator. Perfect for evenly applying treatments and coatings.",
+      "category": "Accessories",
+      "price": 49,
+      "quantity": 85
+    },
+    {
+      "product_name": "Torkduk - Standard",
+      "description": "Detailed description for Torkduk - Standard. A standard drying cloth for quick water removal.",
+      "category": "Cleaning Accessories",
+      "price": 199,
+      "quantity": 56
+    },
+    {
+      "product_name": "APC - Allrengöring 500 ml",
+      "description": "Detailed description for APC - Allrengöring 500 ml. A multipurpose cleaner suitable for various surfaces.",
+      "category": "Car Shampoos",
+      "price": 179,
+      "quantity": 72
+    },
+    {
+      "product_name": "Regskyltslist",
+      "description": "Detailed description for Regskyltslist. A decorative accessory for vehicle registration displays.",
+      "category": "Accessories",
+      "price": 49,
+      "quantity": 44
+    },
+    {
+      "product_name": "Fälgborste",
+      "description": "Detailed description for Fälgborste. Designed to clean wheel rims without damaging finish.",
+      "category": "Cleaning Tools",
+      "price": 199,
+      "quantity": 66
+    },
+    {
+      "product_name": "Purify - Bilschampo Neutral 500 ml",
+      "description": "Detailed description for Purify - Bilschampo Neutral 500 ml. Gently cleans without stripping protective layers.",
+      "category": "Car Shampoos",
+      "price": 199,
+      "quantity": 53
+    },
+    {
+      "product_name": "Torkduk - Dubbelsidig",
+      "description": "Detailed description for Torkduk - Dubbelsidig. Features two textures for versatile drying and polishing.",
+      "category": "Cleaning Accessories",
+      "price": 199,
+      "quantity": 70
+    },
+    {
+      "product_name": "Relive - Flygrostborttagare 5 L",
+      "description": "Detailed description for Relive - Flygrostborttagare 5 L. Large volume for extensive cleaning of road residues.",
+      "category": "Bug & Road Film Removers",
+      "price": 899,
+      "quantity": 37
+    },
+    {
+      "product_name": "Doftgranar 6-pack",
+      "description": "Detailed description for Doftgranar 6-pack. Freshens the vehicle interior with a pleasant fragrance.",
+      "category": "Air Fresheners",
+      "price": 149,
+      "quantity": 59
+    },
+    {
+      "product_name": "Tappkran",
+      "description": "Detailed description for Tappkran. A tap dispenser for accurate dosing of cleaning solutions.",
+      "category": "Accessories",
+      "price": 49,
+      "quantity": 81
+    },
+    {
+      "product_name": "Nyckelring",
+      "description": "Detailed description for Nyckelring. A stylish keyring accessory for car keys.",
+      "category": "Accessories",
+      "price": 49,
+      "quantity": 64
+    },
+    {
+      "product_name": "Tvätthink 20L",
+      "description": "Detailed description for Tvätthink 20L. A large bucket designed for vehicle washing.",
+      "category": "Buckets & Containers",
+      "price": 349,
+      "quantity": 46
+    },
+    {
+      "product_name": "Rengöringsborste",
+      "description": "Detailed description for Rengöringsborste. A robust brush for thorough cleaning of exterior surfaces.",
+      "category": "Cleaning Tools",
+      "price": 99,
+      "quantity": 57
+    },
+    {
+      "product_name": "Torkduk - Maxi",
+      "description": "Detailed description for Torkduk - Maxi. Extra-large drying cloth for professional results.",
+      "category": "Cleaning Accessories",
+      "price": 349,
+      "quantity": 42
+    },
+    {
+      "product_name": "Tryckspruta - Kallavfettning",
+      "description": "Detailed description for Tryckspruta - Kallavfettning. Ideal for applying cold degreasers evenly.",
+      "category": "Cleaning Tools",
+      "price": 349,
+      "quantity": 68
+    },
+    {
+      "product_name": "Utskuren dekal - Holografisk 12cm",
+      "description": "Detailed description for Utskuren dekal - Holografisk 12cm. A holographic decal for a modern touch.",
+      "category": "Decals",
+      "price": 49,
+      "quantity": 73
+    },
+    {
+      "product_name": "Purify S - Keramiskt bilschampo 500 ml",
+      "description": "Detailed description for Purify S - Keramiskt bilschampo 500 ml. Offers a ceramic boost for long-lasting shine.",
+      "category": "Car Shampoos",
+      "price": 299,
+      "quantity": 55
+    },
+    {
+      "product_name": "Doseringsmått",
+      "description": "Detailed description for Doseringsmått. Ensures accurate mixing and dosing of cleaning agents.",
+      "category": "Accessories",
+      "price": 49,
+      "quantity": 61
+    },
+    {
+      "product_name": "Soapy - Handtvål",
+      "description": "Detailed description for Soapy - Handtvål. Specially formulated hand soap for use during vehicle detailing.",
+      "category": "Personal Care",
+      "price": 149,
+      "quantity": 50
+    },
+    {
+      "product_name": "Vax-applikator",
+      "description": "Detailed description for Vax-applikator. A precision tool for applying wax evenly on surfaces.",
+      "category": "Accessories",
+      "price": 39,
+      "quantity": 77
+    },
+    {
+      "product_name": "Magnify - Glasförsegling 3-pack",
+      "description": "Detailed description for Magnify - Glasförsegling 3-pack. A set of three glass sealers for ultimate clarity.",
+      "category": "Glass Care",
+      "price": 349,
+      "quantity": 62
+    },
+    {
+      "product_name": "Litet Interiörtvättpaket",
+      "description": "Detailed description for Litet Interiörtvättpaket. A compact interior cleaning kit for quick refresh.",
+      "category": "Interior Care",
+      "price": 219,
+      "quantity": 48
+    },
+    {
+      "product_name": "Foam Lance",
+      "description": "Detailed description for Foam Lance. Designed to produce thick foam for pre-wash treatments.",
+      "category": "Foam Products",
+      "price": 599,
+      "quantity": 54
+    },
+    {
+      "product_name": "Apex - Quick Wash 500 ml",
+      "description": "Detailed description for Apex - Quick Wash 500 ml. A fast-acting car shampoo for a brilliant finish.",
+      "category": "Car Shampoos",
+      "price": 199,
+      "quantity": 65
+    },
+    {
+      "product_name": "Elevate - Snow Foam 5 L",
+      "description": "Detailed description for Elevate - Snow Foam 5 L. Provides an abundant foam for deep cleaning.",
+      "category": "Foam Products",
+      "price": 599,
+      "quantity": 39
+    },
+    {
+      "product_name": "Däckborste",
+      "description": "Detailed description for Däckborste. Specially designed for effective tire cleaning.",
+      "category": "Cleaning Tools",
+      "price": 129,
+      "quantity": 58
+    },
+    {
+      "product_name": "Glosspack Maxi",
+      "description": "Detailed description for Glosspack Maxi. A premium package for achieving maximum gloss.",
+      "category": "Coatings",
+      "price": 1599,
+      "quantity": 47
+    },
+    {
+      "product_name": "Torkduk - Small",
+      "description": "Detailed description for Torkduk - Small. A smaller drying cloth for detail work.",
+      "category": "Cleaning Accessories",
+      "price": 139,
+      "quantity": 80
+    },
+    {
+      "product_name": "Borstar till skruvdragare - Medium",
+      "description": "Detailed description for Borstar till skruvdragare - Medium. Ideal for cleaning hard-to-reach areas.",
+      "category": "Cleaning Tools",
+      "price": 299,
+      "quantity": 53
+    },
+    {
+      "product_name": "Tomflaska",
+      "description": "Detailed description for Tomflaska. A refillable bottle for your favorite car care products.",
+      "category": "Accessories",
+      "price": 25,
+      "quantity": 61
+    },
+    {
+      "product_name": "APC - Allrengöring Äpple 5 L",
+      "description": "Detailed description for APC - Allrengöring Äpple 5 L. A fruit-scented cleaning solution for a fresh finish.",
+      "category": "Car Shampoos",
+      "price": 899,
+      "quantity": 57
+    },
+    {
+      "product_name": "Suede Cloth 5-pack",
+      "description": "Detailed description for Suede Cloth 5-pack. A pack of gentle cloths for delicate cleaning tasks.",
+      "category": "Cleaning Accessories",
+      "price": 29,
+      "quantity": 70
+    },
+    {
+      "product_name": "Fläckborttagningssvamp 5-pack",
+      "description": "Detailed description for Fläckborttagningssvamp 5-pack. Designed to remove stubborn stains effortlessly.",
+      "category": "Cleaning Accessories",
+      "price": 59,
+      "quantity": 66
+    },
+    {
+      "product_name": "Restore - Polermedel",
+      "description": "Detailed description for Restore - Polermedel. Restores shine and smoothness to painted surfaces.",
+      "category": "Polishing Products",
+      "price": 299,
+      "quantity": 52
+    },
+    {
+      "product_name": "Magnify - Coating v2 lackskydd",
+      "description": "Detailed description for Magnify - Coating v2 lackskydd. Provides long-lasting ceramic protection.",
+      "category": "Ceramic Coatings",
+      "price": 999,
+      "quantity": 49
+    },
+    {
+      "product_name": "Utskuren dekal - 8 cm",
+      "description": "Detailed description for Utskuren dekal - 8 cm. A compact decal for subtle decoration.",
+      "category": "Decals",
+      "price": 25,
+      "quantity": 61
+    },
+    {
+      "product_name": "Borstar till skruvdragare - Hård",
+      "description": "Detailed description for Borstar till skruvdragare - Hård. Durable brushes for rigorous cleaning.",
+      "category": "Cleaning Tools",
+      "price": 299,
+      "quantity": 43
+    },
+    {
+      "product_name": "Glosspack Deluxe - Purify S",
+      "description": "Detailed description for Glosspack Deluxe - Purify S. Deluxe formulation for exceptional shine.",
+      "category": "Coatings",
+      "price": 999,
+      "quantity": 38
+    },
+    {
+      "product_name": "Furrify - Djurschampo 500 ml",
+      "description": "Detailed description for Furrify - Djurschampo 500 ml. Though originally for pets, re-formulated for gentle cleaning.",
+      "category": "Car Shampoos",
+      "price": 199,
+      "quantity": 54
+    },
+    {
+      "product_name": "Glosspack Deluxe - Purify",
+      "description": "Detailed description for Glosspack Deluxe - Purify. A premium shampoo for high-end gloss protection.",
+      "category": "Car Shampoos",
+      "price": 899,
+      "quantity": 46
+    },
+    {
+      "product_name": "Magnify - Vax",
+      "description": "Detailed description for Magnify - Vax. Provides a protective wax layer for a brilliant finish.",
+      "category": "Wax & Sealants",
+      "price": 599,
+      "quantity": 67
+    },
+    {
+      "product_name": "Tomflaskor 5-pack",
+      "description": "Detailed description for Tomflaskor 5-pack. Economical pack of refillable bottles for your cleaning needs.",
+      "category": "Accessories",
+      "price": 199,
+      "quantity": 60
+    },
+    {
+      "product_name": "Polertrissa Heavy cut",
+      "description": "Detailed description for Polertrissa Heavy cut. Built for heavy-duty polishing and buffing.",
+      "category": "Polishing Products",
+      "price": 99,
+      "quantity": 50
+    },
+    {
+      "product_name": "Utskuren dekal - Please do not pet",
+      "description": "Detailed description for Utskuren dekal - Please do not pet. A novelty decal with a playful message.",
+      "category": "Decals",
+      "price": 25,
+      "quantity": 73
+    },
+    {
+      "product_name": "Tvätthink 13L",
+      "description": "Detailed description for Tvätthink 13L. A medium-sized bucket ideal for detailed washes.",
+      "category": "Buckets & Containers",
+      "price": 129,
+      "quantity": 57
+    },
+    {
+      "product_name": "Exteriörtvättpaket",
+      "description": "Detailed description for Exteriörtvättpaket. A complete exterior cleaning kit for professional results.",
+      "category": "Exterior Care",
+      "price": 795,
+      "quantity": 62
+    },
+    {
+      "product_name": "Glasrengöringspaket - Vision+",
+      "description": "Detailed description for Glasrengöringspaket - Vision+. A comprehensive kit for streak-free glass care.",
+      "category": "Glass Care",
+      "price": 285,
+      "quantity": 48
+    },
+    {
+      "product_name": "Sticker Pack",
+      "description": "Detailed description for Sticker Pack. A fun collection of decals to personalize your vehicle.",
+      "category": "Decals",
+      "price": 89,
+      "quantity": 66
+    },
+    {
+      "product_name": "Polertrissa Fine cut",
+      "description": "Detailed description for Polertrissa Fine cut. Precision tool for fine polishing work.",
+      "category": "Polishing Products",
+      "price": 99,
+      "quantity": 56
+    },
+    {
+      "product_name": "Avfettningspaket",
+      "description": "Detailed description for Avfettningspaket. A comprehensive degreasing kit for heavy-duty cleaning.",
+      "category": "Degreasers",
+      "price": 889,
+      "quantity": 47
+    },
+    {
+      "product_name": "Purify S+ - Bilschampo 5 L",
+      "description": "Detailed description for Purify S+ - Bilschampo 5 L. A concentrated shampoo for sparkling clean vehicles.",
+      "category": "Car Shampoos",
+      "price": 1299,
+      "quantity": 62
+    },
+    {
+      "product_name": "APC - Allrengöring Melon 5 L",
+      "description": "Detailed description for APC - Allrengöring Melon 5 L. A melon-scented all-purpose cleaner.",
+      "category": "Car Shampoos",
+      "price": 899,
+      "quantity": 53
+    },
+    {
+      "product_name": "Registreringsskylt",
+      "description": "Detailed description for Registreringsskylt. A decorative license plate accessory.",
+      "category": "Accessories",
+      "price": 169,
+      "quantity": 70
+    },
+    {
+      "product_name": "Schampopump",
+      "description": "Detailed description for Schampopump. A small pump for easy dispensing of shampoo.",
+      "category": "Accessories",
+      "price": 19,
+      "quantity": 84
+    },
+    {
+      "product_name": "Litet skumpaket",
+      "description": "Detailed description for Litet skumpaket. A compact foam kit for quick cleaning jobs.",
+      "category": "Foam Products",
+      "price": 799,
+      "quantity": 48
+    },
+    {
+      "product_name": "Glasrengöringspaket - Vision",
+      "description": "Detailed description for Glasrengöringspaket - Vision. Contains everything needed for pristine glass surfaces.",
+      "category": "Glass Care",
+      "price": 259,
+      "quantity": 61
+    },
+    {
+      "product_name": "Stort Interiörtvättpaket",
+      "description": "Detailed description for Stort Interiörtvättpaket. A large kit designed for comprehensive interior cleaning.",
+      "category": "Interior Care",
+      "price": 789,
+      "quantity": 55
+    },
+    {
+      "product_name": "Keramisk applikator",
+      "description": "Detailed description for Keramisk applikator. A tool for precise application of ceramic coatings.",
+      "category": "Accessories",
+      "price": 29,
+      "quantity": 67
+    },
+    {
+      "product_name": "Purify S 5 L - Keramiskt bilschampo",
+      "description": "Detailed description for Purify S 5 L - Keramiskt bilschampo. For a professional-grade clean with ceramic protection.",
+      "category": "Car Shampoos",
+      "price": 1499,
+      "quantity": 42
+    },
+    {
+      "product_name": "Extract - Alkalisk avfettning 25 L",
+      "description": "Detailed description for Extract - Alkalisk avfettning 25 L. A bulk solution for deep cleaning tasks.",
+      "category": "Degreasers",
+      "price": 1695,
+      "quantity": 39
+    },
+    {
+      "product_name": "Purify S 5 L - Keramiskt bilschampo Hallon",
+      "description": "Detailed description for Purify S 5 L - Keramiskt bilschampo Hallon. Infused with a subtle raspberry scent.",
+      "category": "Car Shampoos",
+      "price": 1499,
+      "quantity": 61
+    },
+    {
+      "product_name": "APC - Allrengöring Foam Cleaner 200 ml",
+      "description": "Detailed description for APC - Allrengöring Foam Cleaner 200 ml. A compact foam cleaner for spot treatments.",
+      "category": "Car Shampoos",
+      "price": 129,
+      "quantity": 57
+    },
+    {
+      "product_name": "APC - Allrengöring Viol 5 L",
+      "description": "Detailed description for APC - Allrengöring Viol 5 L. With a gentle violet scent for a pleasant cleaning experience.",
+      "category": "Car Shampoos",
+      "price": 899,
+      "quantity": 44
+    },
+    {
+      "product_name": "Prime - Panel Wipe",
+      "description": "Detailed description for Prime - Panel Wipe. Quickly removes dirt from vehicle panels.",
+      "category": "Cleaning Accessories",
+      "price": 129,
+      "quantity": 62
+    },
+    {
+      "product_name": "Amplify - Wet Coat 5 L",
+      "description": "Detailed description for Amplify - Wet Coat 5 L. A large volume formula for ultimate gloss and protection.",
+      "category": "Coatings",
+      "price": 999,
+      "quantity": 50
+    },
+    {
+      "product_name": "Hållare 3D",
+      "description": "Detailed description for Hållare 3D. A sturdy 3D holder designed for easy product application.",
+      "category": "Accessories",
+      "price": 599,
+      "quantity": 46
+    },
+    {
+      "product_name": "Nitrilhandskar Svarta - 100 pack",
+      "description": "Detailed description for Nitrilhandskar Svarta - 100 pack. Disposable gloves for safe cleaning work.",
+      "category": "Personal Protective Equipment",
+      "price": 179,
+      "quantity": 73
+    },
+    {
+      "product_name": "Vägghållare Påbyggningsbar",
+      "description": "Detailed description for Vägghållare Påbyggningsbar. An accessory for mounting additional car care tools.",
+      "category": "Accessories",
+      "price": 99,
+      "quantity": 57
+    },
+    {
+      "product_name": "Mellanstort vintertvättpaket",
+      "description": "Detailed description for Mellanstort vintertvättpaket. A mid-sized winter wash kit for cold weather care.",
+      "category": "Exterior Care",
+      "price": 839,
+      "quantity": 64
+    },
+    {
+      "product_name": "Tvätthinkspaket",
+      "description": "Detailed description for Tvätthinkspaket. Includes a high-quality bucket and accessories for vehicle washing.",
+      "category": "Buckets & Containers",
+      "price": 499,
+      "quantity": 52
+    },
+    {
+      "product_name": "Däck & fälgpaket",
+      "description": "Detailed description for Däck & fälgpaket. A complete kit to clean and shine wheels and tires.",
+      "category": "Exterior Care",
+      "price": 785,
+      "quantity": 48
+    },
+    {
+      "product_name": "Tvättpaket - Purify & Amplify",
+      "description": "Detailed description for Tvättpaket - Purify & Amplify. Combines two top car care brands in one kit.",
+      "category": "Car Care Kits",
+      "price": 759,
+      "quantity": 61
+    },
+    {
+      "product_name": "Adapter till Foam Lance",
+      "description": "Detailed description for Adapter till Foam Lance. A useful adapter to fit your Foam Lance system.",
+      "category": "Accessories",
+      "price": 99,
+      "quantity": 55
+    },
+    {
+      "product_name": "Stort Avfettningspaket",
+      "description": "Detailed description for Stort Avfettningspaket. A comprehensive degreasing package for heavy-duty cleaning.",
+      "category": "Degreasers",
+      "price": 1470,
+      "quantity": 42
+    },
+    {
+      "product_name": "Tvättpaket - Purify S+",
+      "description": "Detailed description for Tvättpaket - Purify S+. A complete washing kit for superior cleaning results.",
+      "category": "Car Care Kits",
+      "price": 669,
+      "quantity": 59
+    },
+    {
+      "product_name": "Stort skumpaket",
+      "description": "Detailed description for Stort skumpaket. Provides ample foam for thorough pre-wash treatment.",
+      "category": "Foam Products",
+      "price": 1165,
+      "quantity": 53
+    },
+    {
+      "product_name": "Relive - Flygrostborttagare 25 L",
+      "description": "Detailed description for Relive - Flygrostborttagare 25 L. A very large bottle for extreme cleaning challenges.",
+      "category": "Bug & Road Film Removers",
+      "price": 2799,
+      "quantity": 47
+    },
+    {
+      "product_name": "Flödesmunstycke till Foam Lance",
+      "description": "Detailed description for Flödesmunstycke till Foam Lance. Ensures an even flow of foam during application.",
+      "category": "Spray Nozzles",
+      "price": 39,
+      "quantity": 68
+    },
+    {
+      "product_name": "Utskuren dekal - Matt silver 12 cm",
+      "description": "Detailed description for Utskuren dekal - Matt silver 12 cm. A sleek, matte silver decal for a modern look.",
+      "category": "Decals",
+      "price": 25,
+      "quantity": 57
+    },
+    {
+      "product_name": "Tvättpaket - Purify S & Refract",
+      "description": "Detailed description for Tvättpaket - Purify S & Refract. Combines two leading formulas for an outstanding wash.",
+      "category": "Car Care Kits",
+      "price": 1069,
+      "quantity": 61
+    },
+    {
+      "product_name": "Stort vintertvättpaket",
+      "description": "Detailed description for Stort vintertvättpaket. A full-size winter wash kit to combat cold weather grime.",
+      "category": "Exterior Care",
+      "price": 1869,
+      "quantity": 54
+    },
+    {
+      "product_name": "Glasförseglingspaket",
+      "description": "Detailed description for Glasförseglingspaket. Seals and protects glass surfaces against dirt and water spots.",
+      "category": "Glass Care",
+      "price": 349,
+      "quantity": 60
+    },
+    {
+      "product_name": "Litet vintertvättpaket",
+      "description": "Detailed description for Litet vintertvättpaket. A compact winter cleaning kit for quick touch-ups.",
+      "category": "Exterior Care",
+      "price": 389,
+      "quantity": 57
+    },
+    {
+      "product_name": "Poleringspaket",
+      "description": "Detailed description for Poleringspaket. A complete kit designed to polish and protect your vehicle’s finish.",
+      "category": "Polishing Products",
+      "price": 890,
+      "quantity": 49
+    },
+    {
+      "product_name": "Utskuren dekal - Matt guld 12 cm",
+      "description": "Detailed description for Utskuren dekal - Matt guld 12 cm. A matte gold decal that adds a touch of luxury.",
+      "category": "Decals",
+      "price": 25,
+      "quantity": 66
+    },
+    {
+      "product_name": "Mellanstort interiörtvättpaket",
+      "description": "Detailed description for Mellanstort interiörtvättpaket. An ideal interior cleaning kit for mid-sized vehicles.",
+      "category": "Interior Care",
+      "price": 589,
+      "quantity": 63
+    },
+    {
+      "product_name": "Däckrengöringspaket",
+      "description": "Detailed description for Däckrengöringspaket. Specifically designed to remove brake dust and grime from tires.",
+      "category": "Exterior Care",
+      "price": 249,
+      "quantity": 47
+    },
+    {
+      "product_name": "Felkans Touringpaket",
+      "description": "Detailed description for Felkans Touringpaket. A specialized kit for touring vehicles to keep them pristine.",
+      "category": "Car Care Kits",
+      "price": 725,
+      "quantity": 52
+    },
+    {
+      "product_name": "Husbil- och Husvagnspaket",
+      "description": "Detailed description for Husbil- och Husvagnspaket. Tailored for motorhomes and caravans for complete care.",
+      "category": "Car Care Kits",
+      "price": 999,
+      "quantity": 46
+    },
+    {
+      "product_name": "Lackskyddspaket - Polering & Coating",
+      "description": "Detailed description for Lackskyddspaket - Polering & Coating. Combines polishing and coating for long-lasting protection.",
+      "category": "Coatings",
+      "price": 1700,
+      "quantity": 55
+    },
+    {
+      "product_name": "Lackskyddspaket - Polering & Vax",
+      "description": "Detailed description for Lackskyddspaket - Polering & Vax. Offers a dual-action formula for shine and protection.",
+      "category": "Wax & Sealants",
+      "price": 1376,
+      "quantity": 48
+    },
+    {
+      "product_name": "Revive - Pearify Energidryck",
+      "description": "Detailed description for Revive - Pearify Energidryck. A promotional energy drink for a quick boost during detailing.",
+      "category": "Beverages",
+      "price": 19,
+      "quantity": 73
+    },
+    {
+      "product_name": "Doftgranar",
+      "description": "Detailed description for Doftgranar. Freshens and deodorizes the vehicle interior.",
+      "category": "Air Fresheners",
+      "price": 29,
+      "quantity": 64
+    },
+    {
+      "product_name": "Mystery Box",
+      "description": "Detailed description for Mystery Box. Contains a surprise mix of car care accessories.",
+      "category": "Miscellaneous",
+      "price": 399,
+      "quantity": 57
+    },
+    {
+      "product_name": "Utskuren dekal - 30 cm",
+      "description": "Detailed description for Utskuren dekal - 30 cm. A larger decal for bold design statements.",
+      "category": "Decals",
+      "price": 35,
+      "quantity": 62
+    },
+    {
+      "product_name": "Polertrissa Medium cut",
+      "description": "Detailed description for Polertrissa Medium cut. Provides a balanced finish for general polishing tasks.",
+      "category": "Polishing Products",
+      "price": 99,
+      "quantity": 49
+    },
+    {
+      "product_name": "Scrubby - Hårschampo & Duschtvål",
+      "description": "Detailed description for Scrubby - Hårschampo & Duschtvål. A dual-purpose product for both hair and body cleaning.",
+      "category": "Personal Care",
+      "price": 149,
+      "quantity": 55
+    },
+    {
+      "product_name": "Bilvårdsväska",
+      "description": "Detailed description for Bilvårdsväska. A dedicated bag to organize and carry your car care products.",
+      "category": "Accessories",
+      "price": 499,
+      "quantity": 68
+    },
+    {
+      "product_name": "Extra behållare Foam Lance",
+      "description": "Detailed description for Extra behållare Foam Lance. A spare container for your Foam Lance system.",
+      "category": "Accessories",
+      "price": 99,
+      "quantity": 61
+    }
+  ]  
