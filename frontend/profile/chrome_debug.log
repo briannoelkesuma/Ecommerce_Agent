@@ -1,0 +1,27 @@
+[3443:259:0317/151752.268790:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[3443:259:0317/151753.800450:INFO:CONSOLE(0)] "Manifest: property 'src' ignored, type string expected.", source: https://tershine.com/manifest.json (0)
+[3443:259:0317/151754.296733:INFO:CONSOLE(2)] "[object Object]", source: https://tershine.com/themes/foundation/js/foundation.js?id=87421fc278dbc0a1d23f310fcc864baf (2)
+[3443:259:0317/151754.296802:INFO:CONSOLE(2)] "[object Object]", source: https://tershine.com/themes/foundation/js/foundation.js?id=87421fc278dbc0a1d23f310fcc864baf (2)
+[3443:259:0317/151754.296816:INFO:CONSOLE(2)] "[object Object]", source: https://tershine.com/themes/foundation/js/foundation.js?id=87421fc278dbc0a1d23f310fcc864baf (2)
+[3443:259:0317/151754.296830:INFO:CONSOLE(2)] "[object Object]", source: https://tershine.com/themes/foundation/js/foundation.js?id=87421fc278dbc0a1d23f310fcc864baf (2)
+[3443:259:0317/151800.050673:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 1, file size:0
+[3443:259:0317/151802.298749:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 5, file size:0
+[3443:259:0317/151802.299764:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 5, file size:0
+[3443:259:0317/151802.299854:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 5, file size:0
+[3443:259:0317/151802.299893:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 5, file size:0
+[3443:259:0317/151802.299929:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 5, file size:0
+[3443:259:0317/151802.580924:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:5154
+[3443:259:0317/151802.654155:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:265059
+[3443:259:0317/151803.199713:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:883094
+[3443:259:0317/151803.613145:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2200227
+[3443:259:0317/151804.073909:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:45129
+[3443:259:0317/151804.114869:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2992963
+[3443:259:0317/151804.985421:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:4680
+[3443:259:0317/151805.223217:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2747170
+[3443:259:0317/151807.111924:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:118577
+[3443:41731:0317/151922.330016:INFO:rlz_lib.cc(443)] Attempting to send RLZ ping brand=CHFA
+[3443:41731:0317/151922.543639:INFO:rlz_lib.cc(452)] Succeeded in sending RLZ ping
+[3443:259:0317/152447.783862:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbTo0NDM.&hl=en&v=J79K9xgfxwT6Syzx-UyWdD89&size=normal&s=55xCRrcHs7zgg9PR00f1JBJ4Pw_hRpo2ixAbNoAn_s1A154Zkx7bL8nIU_qoTyhWsxt6Jw4BKO5Suc56ihwl36agXuHB6FKyfuq1Jj4zVgnAQiZWm6W0YpjFQpjBNc-Ub9sjZj-HVAgrzRfphPT3w990bxpSLFucYCOUC62WROQ6KcHkFYLiJElKNAMokwNWgFv7YcGcdHQhm7dNW6C72vWyzAzEX5TPWvoOykTEuOMHzN0Sv15uPjb014Ud5j3bUtHXMH_XklmhyIDTWuyvAyv0M_Wv5hA&cb=svn1ynou1496 (0)
+[3443:259:0317/152447.874764:INFO:CONSOLE(4)] "Uncaught ReferenceError: solveSimpleChallenge is not defined", source: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dadd%2Btext%2Bdavinci%26rlz%3D1C5CHFA_enSG1016SG1016%26oq%3Dadd%2Btext%2Bdavinci%26gs_lcrp%3DEgZjaHJvbWUyBggAEEUYOdIBCDM0MTJqMGo3qAIAsAIA%26sourceid%3Dchrome%26ie%3DUTF-8%26sei%3DrzDYZ8OQCePCwPAP5ofdyAE&q=EgQ-P-4SGK_h4L4GIjCB7U4deQ_zXtCLEFqq41ZZvEkO_5b3vUOIQCqlxaA3366NyYxVNfaSa45iwqttaekyAXJaAUM (4)
+[3443:259:0317/152447.980783:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.google.com/recaptcha/api2/bframe?hl=en&v=J79K9xgfxwT6Syzx-UyWdD89&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b (0)
+[3443:259:0317/155416.248634:ERROR:new_tab_page_handler.cc(1341)] NewTabPage loaded into a non-browser-tab context

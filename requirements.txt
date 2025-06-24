@@ -86,3 +86,5 @@ langchain-openai
 langchain-pinecone
 langfuse
 selenium
+uvicorn
+fastapi
